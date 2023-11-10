@@ -1,0 +1,17 @@
+.biblioteca{
+    border: 1px solid #e29898;
+    padding: 10px;
+    margin: 10px;
+}
+
+.estante{
+    background-color: #e7d256;
+}
+
+.bancodedados{
+    background-color: #7aa3f0;
+}
+
+.catalogofisico{
+    background-color: #58c958;
+}
